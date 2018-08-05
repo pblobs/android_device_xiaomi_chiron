@@ -38,7 +38,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 PRODUCT_NAME := omni_chiron
 PRODUCT_DEVICE := chiron
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := MI Mix 2
+PRODUCT_MODEL := MI MIX 2
 PRODUCT_MANUFACTURER := Xiaomi
 
 # Google client ID.
